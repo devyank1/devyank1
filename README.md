@@ -1,6 +1,5 @@
 ## Olá, eu me chamo Yan! 🖐️😎
-Sou um Desenvolvedor de Software Fullstack com um ano de experiência no desenvolvimento de aplicações web, apaixonado por aprender novas tecnologias e habilidades para enfrentar desafios complexos. <br>
-Busco constantemente melhorar minhas capacidades através de cursos, projetos pessoais e estudos contínuos. Minha expertise abrange tanto o Front-End, utilizando JavaScript, Angular e o Back-End com Java/Spring para criar soluções completas que atendem às necessidades de negócios e proporcionam uma excelente experiência ao usuário. <br>
+Sou um Desenvolvedor de Software Fullstack com um ano de experiência no desenvolvimento de aplicações web, apaixonado por aprender novas tecnologias e habilidades para enfrentar desafios complexos. Busco constantemente melhorar minhas capacidades através de cursos, projetos pessoais e estudos contínuos. Minha expertise abrange tanto o Front-End, utilizando JavaScript, Angular e o Back-End com Java/Spring para criar soluções completas que atendem às necessidades de negócios e proporcionam uma excelente experiência ao usuário. <br>
 Habilidade de comunicação e trabalho em equipe. <br>
 Capacidade de resolver problemas de forma eficiente e inovadora. <br>
 Compromisso com a melhoria contínua e entrega de código de qualidade.
