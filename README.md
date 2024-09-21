@@ -8,16 +8,12 @@ Sou um Desenvolvedor de Software Fullstack com um ano de experiência no desenvo
 
 ## Socials 🌎
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/estudiohoag/)
-
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-carlos-00a740251/)
-
 [![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/hoagdesignof)
 
-![Yan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyank1&langs_count=8)
+![Yan Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devyank1&layout=compact)
 
 ## Ferramentas utilizadas por mim 🔧
 
