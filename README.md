@@ -1,8 +1,8 @@
 ![Developer_Fullstack](https://github.com/user-attachments/assets/fb509b9e-4d2b-42d0-b98a-d8ca6d1cb5c5)
 
 # Olá, eu me chamo Yan! 🖐️😎
-Sou um desenvolvedor Back-End com experiência prática em Java e Spring Boot, apaixonado por resolver problemas complexos e aprender novas tecnologias. Especializo-me em arquiteturas de microserviços e APIs RESTful seguras, aplicando boas práticas como SOLID, Clean Code e TDD.
-Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a troca de ideias em equipe. Já atuei em ambientes ágeis (Scrum, Kanban), sempre buscando a melhoria contínua e a entrega de soluções de qualidade. Além disso, possuo conhecimento em Docker, bancos de dados relacionais e não-relacionais (PostgreSQL, MongoDB), e fundamentos em tecnologias de nuvem (AWS, Azure).
+Sou um desenvolvedor Back-End com experiência prática em Java e Spring Boot, apaixonado por resolver problemas complexos e aprender novas tecnologias. Especializo-me em arquiteturas de microserviços e APIs RESTful seguras, aplicando boas práticas como SOLID, Clean Code e TDD. <br>
+Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a troca de ideias em equipe. Já atuei em ambientes ágeis (Scrum, Kanban), sempre buscando a melhoria contínua e a entrega de soluções de qualidade. Além disso, possuo conhecimento em Docker, bancos de dados relacionais e não-relacionais (PostgreSQL, MongoDB), e fundamentos em tecnologias de nuvem (AWS, Azure). <br>
 Motivado por desafios, estou sempre explorando formas de otimizar processos e criar produtos impactantes.
 
 ## Socials 🌎
