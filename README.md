@@ -1,10 +1,9 @@
 ![Developer_Fullstack](https://github.com/user-attachments/assets/fb509b9e-4d2b-42d0-b98a-d8ca6d1cb5c5)
 
 # Olá, eu me chamo Yan! 🖐️😎
-Sou um Desenvolvedor de Software Fullstack com um ano de experiência no desenvolvimento de aplicações web, apaixonado por aprender novas tecnologias e habilidades para enfrentar desafios complexos. Busco constantemente melhorar minhas capacidades através de cursos, projetos pessoais e estudos contínuos. Minha expertise abrange tanto o Front-End, utilizando JavaScript, Angular e o Back-End com Java/Spring para criar soluções completas que atendem às necessidades de negócios e proporcionam uma excelente experiência ao usuário. <br>
-- Habilidade de comunicação e trabalho em equipe. <br>
-- Capacidade de resolver problemas de forma eficiente e inovadora. <br>
-- Compromisso com a melhoria contínua e entrega de código de qualidade.
+Sou um desenvolvedor Back-End com experiência prática em Java e Spring Boot, apaixonado por resolver problemas complexos e aprender novas tecnologias. Especializo-me em arquiteturas de microserviços e APIs RESTful seguras, aplicando boas práticas como SOLID, Clean Code e TDD.
+Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a troca de ideias em equipe. Já atuei em ambientes ágeis (Scrum, Kanban), sempre buscando a melhoria contínua e a entrega de soluções de qualidade. Além disso, possuo conhecimento em Docker, bancos de dados relacionais e não-relacionais (PostgreSQL, MongoDB), e fundamentos em tecnologias de nuvem (AWS, Azure).
+Motivado por desafios, estou sempre explorando formas de otimizar processos e criar produtos impactantes.
 
 ## Socials 🌎
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
