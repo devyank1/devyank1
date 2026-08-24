@@ -1,6 +1,6 @@
 ![Developer_Fullstack](https://github.com/user-attachments/assets/fb509b9e-4d2b-42d0-b98a-d8ca6d1cb5c5)
 
-# Olá, eu me chamo Yan! 🖐️😎
+# Olá, eu me chamo Yan! 🖐️😎 // Hi, I am Yan 🖐️😎
 ## 👨‍💻 About Me
 
 **Software Engineer specializing in Backend Development** with 2+ years of experience building scalable REST APIs and enterprise integrations using Java, Spring Boot, PostgreSQL, AWS, Docker, and Kubernetes.
@@ -26,7 +26,7 @@ Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a t
 
 ![Yan Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devyank1&layout=compact)
 
-## Ferramentas utilizadas por mim 🔧
+## Tech Stack 🔧
 
 ### 👨‍💻 Back-End
 <div style="display: inline-block">
@@ -42,18 +42,19 @@ Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a t
 <img alt="kubernetes" src="https://img.shields.io/badge/KUBERNETES-kubernetes?style=for-the-badge&logo=kubernetes&color=326CE5">
 <img alt="githubactions" src="https://img.shields.io/badge/GITHUB_ACTIONS-githubactions?style=for-the-badge&logo=githubactions&color=2088FF">
 
-### Testes
+### Tests
 <div style="display: inline-block">
 
 <img alt="prom" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white"/>
 <img alt="grafana" src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white"/>
 </div>
 
-### ⚙️ Versionamento
+### ⚙️ Versioning
 <div style="display: inline-block">
 <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-## Formações 👨‍🎓
+## Academic Backgorund 👨‍🎓
 - Universidade Federal do Maranhão (UFMA) - Computação e Informática
+- Faculdade Líbano - Engenharia de Software
