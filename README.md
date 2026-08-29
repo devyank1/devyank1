@@ -19,13 +19,6 @@ Especializo-me em arquiteturas de microserviços e APIs RESTful seguras, aplican
 
 Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a troca de ideias em equipe. Já atuei em ambientes ágeis (Scrum, Kanban), sempre buscando a melhoria contínua e a entrega de soluções de qualidade. Motivado por desafios, estou sempre explorando formas de otimizar processos e criar produtos impactantes.
 
-## Socials 🌎
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yancarlostrab@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-carlos-00a740251/)
-
-![Yan Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devyank1&layout=compact)
-
 ## Tech Stack 🔧
 
 ### 👨‍💻 Back-End
@@ -55,6 +48,12 @@ Tenho um perfil colaborativo e proativo, valorizando a comunicação clara e a t
 <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
+![Yan Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=devyank1&layout=compact)
+
 ## Academic Backgorund 👨‍🎓
 - Universidade Federal do Maranhão (UFMA) - Computação e Informática
 - Faculdade Líbano - Engenharia de Software
+
+## Socials 🌎
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yancarlostrab@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-carlos-00a740251/)
