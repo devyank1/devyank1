@@ -1,4 +1,5 @@
-![Developer_Fullstack](https://github.com/user-attachments/assets/fb509b9e-4d2b-42d0-b98a-d8ca6d1cb5c5)
+<img width="2561" height="1440" alt="yankdev" src="https://github.com/user-attachments/assets/b928e55f-c0fd-462d-836e-40dd785c0c86" />
+
 
 # Olá, eu me chamo Yan! 🖐️😎 // Hi, I am Yan 🖐️😎
 ## 👨‍💻 About Me
