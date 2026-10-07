@@ -1,4 +1,4 @@
-<img width="2561" height="1440" alt="yankdev" src="https://github.com/user-attachments/assets/b928e55f-c0fd-462d-836e-40dd785c0c86" />
+<img width="2561" height="629" alt="gth" src="https://github.com/user-attachments/assets/d13c9499-2139-413b-8e38-2fb61464971d" />
 
 
 # Olá, eu me chamo Yan! 🖐️😎 // Hi, I am Yan 🖐️😎
